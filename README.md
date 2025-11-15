@@ -53,7 +53,7 @@ Currently at **LA TRANDASYS**, where I:
 
 ## 🌐 Portfolio & Links
 
-**Portfolio:** [leelasri211.github.io/portfolio](https://leelasri211.github.io/portfolio)
+**Portfolio:** [leelasri211.github.io/portfolio](https://leelasri211.github.io/leelasri-portfolio/)
 
 **LinkedIn:** [linkedin.com/in/leelasri-sripana-665240247](https://linkedin.com/in/leelasri-sripana-665240247)
 
