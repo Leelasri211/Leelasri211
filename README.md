@@ -53,7 +53,7 @@ Currently at **LA TRANDASYS**, where I:
 
 ## 🌐 Portfolio & Links
 
-**Portfolio:** [leelasri211.github.io/portfolio](https://leelasri211.github.io/leelasri-portfolio/)
+**Portfolio:** [leelasri211.github.io/portfolio](https://leelasri211.github.io/portfolio)
 
 **LinkedIn:** [linkedin.com/in/leelasri-sripana-665240247](https://linkedin.com/in/leelasri-sripana-665240247)
 
@@ -69,12 +69,6 @@ I'm passionate about:
 - Learning from talented engineers and sharing knowledge
 
 Open to discussing Android development, system design, or collaborating on innovative mobile projects!
-
-## 📊 GitHub Activity
-
-![Leelasri's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leelasri211&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Leelasri211&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
