@@ -1,13 +1,83 @@
-👋 Hi, I’m Leelasri Sripana (@Leelasri211)  
-👩‍💻 I’m an Android Developer currently working at a startup  
-📱 Skilled in Android (Java), and learning Kotlin and React Native for cross-platform development  
-📈 Currently learning Full Stack Development and practicing Java + Data Structures for product-based company interviews  
-🚀 Passionate about building user-centric mobile apps, contributing to open-source, and exploring system design fundamentals  
-🤝 I’m open to collaborating on Android apps, cross-platform mobile projects, or anything that helps people through tech  
-📫 Reach me at: leelasri211@gmail.com | [LinkedIn](http://www.linkedin.com/in/leelasri-sripana-665240247)  
-😄 Pronouns: She/Her  
-⚡ Fun fact: I've served as a class representative, acting as a bridge between students and faculty to solve issues collaboratively
-<!---
-Leelasri211/Leelasri211 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 👋 Hi, I'm Leelasri Sripana
+
+## 🚀 Android Engineer | Building Delightful Mobile Experiences
+
+**1.8 years** of hands-on experience crafting scalable, performant Android applications used by thousands of users.
+
+## 💼 What I Do
+
+Currently at **LA TRANDASYS**, where I:
+- Ship production Android apps to **Play Store** with millions of potential users
+- Architect features using **MVVM**, implement **lifecycle-aware components**, and optimize performance
+- Work with **REST APIs**, **Firebase**, **SQLite**, and integrate third-party SDKs
+- Collaborate in code reviews, resolve production bugs, and maintain clean codebases
+
+## 🛠️ Core Expertise
+
+**Android:** Java • Kotlin • Android SDK • MVVM • Jetpack Components • Activity/Fragment Lifecycle • RecyclerView • Material Design
+
+**Backend & APIs:** REST APIs • JSON • Firebase • SQLite • Retrofit • Third-party SDK Integration
+
+**Tools:** Android Studio • Git/GitHub • Gradle • Debugging & Profiling • Performance Optimization
+
+**CS Fundamentals:** Data Structures & Algorithms (Java) • OOP • System Design Basics
+
+**Expanding Horizons:** Python • Machine Learning • Deep Learning • Kotlin Multiplatform (KMP)
+
+## 📱 Live Projects
+
+**[My Diary App](https://play.google.com/store/apps/details?id=com.trandasys.diary.notes.journal.mydiary.diarywithlock.dailydiary.secretdiary.diaryjournal)**
+- Implemented Firebase OTP authentication, app lock security, and customizable themes
+- Built note management with SharedPreferences & internal storage
+- Integrated REST APIs and TED Image Picker for media handling
+
+**[Love Photo Frames](https://play.google.com/store/apps/details?id=com.love.photo.frame.app.collage.maker.photo.editor)**
+- Developed photo editing features with filters, brightness controls, and dynamic layouts
+- Optimized UI/UX for smooth user experience
+
+**AI-Powered Steering Control System**
+- Built CNN model achieving **96.38% accuracy** for autonomous vehicle steering prediction
+- Tech: Python, TensorFlow, Deep Learning
+
+**Heart Disease Prediction Pipeline**
+- Implemented end-to-end ML pipeline for medical diagnosis
+- Focus on data preprocessing, model selection, and evaluation
+
+## 🎯 Current Focus
+
+- 📚 Mastering **Data Structures & Algorithms** for solving complex problems efficiently
+- 🏗️ Learning **System Design** and scalable architecture patterns
+- 🔧 Exploring **Kotlin Multiplatform (KMP)** for cross-platform development
+- 🚀 Contributing to **open-source** Android projects
+- 💡 Building side projects that solve real-world problems
+
+## 🌐 Portfolio & Links
+
+**Portfolio:** [leelasri211.github.io/portfolio](https://leelasri211.github.io/leelasri-portfolio/)
+
+**LinkedIn:** [linkedin.com/in/leelasri-sripana-665240247](https://linkedin.com/in/leelasri-sripana-665240247)
+
+**Email:** leelasri211@gmail.com
+
+## 🤝 Let's Collaborate
+
+I'm passionate about:
+- Building high-quality, user-centric mobile applications
+- Writing clean, maintainable, and testable code
+- Solving challenging technical problems
+- Contributing to impactful open-source projects
+- Learning from talented engineers and sharing knowledge
+
+Open to discussing Android development, system design, or collaborating on innovative mobile projects!
+
+## 📊 GitHub Activity
+
+![Leelasri's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leelasri211&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Leelasri211&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+💭 *"Great software is built by passionate engineers who care deeply about the user experience and code quality."*
+
+⚡ Always learning, always building, always improving.
