@@ -2,29 +2,33 @@
 
 ## 🚀 Android Engineer | Building Delightful Mobile Experiences
 
-**1.8 years** of hands-on experience crafting scalable, performant Android applications used by thousands of users.
+**2 years** of hands-on experience crafting scalable, performant Android applications used by thousands of users.
 
 ## 💼 What I Do
 
 Currently at **LA TRANDASYS**, where I:
 - Ship production Android apps to **Play Store** with millions of potential users
-- Architect features using **MVVM**, implement **lifecycle-aware components**, and optimize performance
+- Architect features using **Kotlin**, **MVVM**, implement **lifecycle-aware components**, and optimize performance
 - Work with **REST APIs**, **Firebase**, **SQLite**, and integrate third-party SDKs
 - Collaborate in code reviews, resolve production bugs, and maintain clean codebases
 
 ## 🛠️ Core Expertise
 
-**Android:** Java • Kotlin • Android SDK • MVVM • Jetpack Components • Activity/Fragment Lifecycle • RecyclerView • Material Design
+**Android:** Kotlin • Java • Android SDK • MVVM • Jetpack Components (LiveData, ViewModel, Room) • Activity/Fragment Lifecycle • RecyclerView • Material Design • Firebase Authentication
+
+**Cross-Platform:** Flutter • Dart • Widget-based UI • State Management
 
 **Backend & APIs:** REST APIs • JSON • Firebase • SQLite • Retrofit • Third-party SDK Integration
 
-**Tools:** Android Studio • Git/GitHub • Gradle • Debugging & Profiling • Performance Optimization
+**Tools:** Android Studio • Git/GitHub • Gradle • Postman • Debugging & Profiling • Performance Optimization
 
-**CS Fundamentals:** Data Structures & Algorithms (Java) • OOP • System Design Basics
+**CS Fundamentals:** Data Structures & Algorithms (Arrays, Trees, Graphs, Dynamic Programming) • OOP • System Design Basics
 
-**Expanding Horizons:** Python • Machine Learning • Deep Learning • Kotlin Multiplatform (KMP)
+**Exploring:** Python • Machine Learning • Deep Learning • Kotlin Multiplatform (KMP)
 
 ## 📱 Live Projects
+
+### 🏢 Professional Work (LA TRANDASYS)
 
 **[My Diary App](https://play.google.com/store/apps/details?id=com.trandasys.diary.notes.journal.mydiary.diarywithlock.dailydiary.secretdiary.diaryjournal)**
 - Implemented Firebase OTP authentication, app lock security, and customizable themes
@@ -34,6 +38,17 @@ Currently at **LA TRANDASYS**, where I:
 **[Love Photo Frames](https://play.google.com/store/apps/details?id=com.love.photo.frame.app.collage.maker.photo.editor)**
 - Developed photo editing features with filters, brightness controls, and dynamic layouts
 - Optimized UI/UX for smooth user experience
+
+*+ Contributed to 3+ other photo editing and diary apps on Play Store*
+
+### 🚀 Personal Projects
+
+**[MotiveAI – Daily Quotes App](https://play.google.com/store/apps/details?id=com.motiveai.dailyquotes)**
+- Independently designed, developed, and published end-to-end
+- Features: Category-based quotes, offline storage, daily reminders, social sharing
+- Tech Stack: Java, Fragments, ViewPager, RecyclerView, SQLite, AlarmManager
+
+### 🤖 Machine Learning Projects
 
 **AI-Powered Steering Control System**
 - Built CNN model achieving **96.38% accuracy** for autonomous vehicle steering prediction
@@ -45,7 +60,7 @@ Currently at **LA TRANDASYS**, where I:
 
 ## 🎯 Current Focus
 
-- 📚 Mastering **Data Structures & Algorithms** for solving complex problems efficiently
+- 📚 Mastering **Data Structures & Algorithms** for solving complex problems efficiently (Active on LeetCode/GeeksforGeeks)
 - 🏗️ Learning **System Design** and scalable architecture patterns
 - 🔧 Exploring **Kotlin Multiplatform (KMP)** for cross-platform development
 - 🚀 Contributing to **open-source** Android projects
@@ -68,7 +83,7 @@ I'm passionate about:
 - Contributing to impactful open-source projects
 - Learning from talented engineers and sharing knowledge
 
-Open to discussing Android development, system design, or collaborating on innovative mobile projects!
+Open to discussing Android development, Kotlin, Flutter, system design, or collaborating on innovative mobile projects!
 
 ---
 
