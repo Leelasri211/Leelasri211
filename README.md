@@ -48,6 +48,9 @@ Currently at **LA TRANDASYS**, where I:
 - Features: Category-based quotes, offline storage, daily reminders, social sharing
 - Tech Stack: Java, Fragments, ViewPager, RecyclerView, SQLite, AlarmManager
 
+**[MotiveAI – Daily Quotes App Demo](https://youtu.be/-9s4gp_rb5I)**
+- Watch a 1:18 min demo showcasing end-to-end functionality and features
+
 ### 🤖 Machine Learning Projects
 
 **AI-Powered Steering Control System**
