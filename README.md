@@ -39,7 +39,7 @@ Currently at **LA TRANDASYS**, where I:
 - Developed photo editing features with filters, brightness controls, and dynamic layouts
 - Optimized UI/UX for smooth user experience
 
-*+ Contributed to 3+ other photo editing and diary apps on Play Store*
+*+ Contributed to 5+ other photo editing and diary apps on Play Store*
 
 ### 🚀 Personal Projects
 
