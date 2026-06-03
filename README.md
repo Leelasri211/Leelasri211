@@ -16,7 +16,7 @@ Currently at **LA TRANDASYS**, where I:
 
 **Android:** Kotlin • Java • Android SDK • MVVM • Jetpack Components (LiveData, ViewModel, Room) • Activity/Fragment Lifecycle • RecyclerView • Material Design • Firebase Authentication
 
-**Cross-Platform:** Flutter • Dart • Widget-based UI • State Management
+**Cross-Platform:** Widget-based UI • State Management
 
 **Backend & APIs:** REST APIs • JSON • Firebase • SQLite • Retrofit • Third-party SDK Integration
 
