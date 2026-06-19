@@ -132,18 +132,22 @@ Full-featured quiz platform with:
 </td>
 <td width="50%">
 
+
+
 #### 💬 MotiveAI – Daily Quotes
 [![Play Store](https://img.shields.io/badge/Play_Store-3DDC84?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.motiveai.dailyquotes)
 [![Demo](https://img.shields.io/badge/Demo-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtu.be/-9s4gp_rb5I)
-
-Independently built & published end-to-end:
+ 
+Independently built, published & actively evolved:
 - 📂 Category-based quotes
 - 📴 Offline storage
 - ⏰ Daily reminders via AlarmManager
 - 📤 Social sharing
-
-`Java` · `Fragments` · `ViewPager` · `RecyclerView` · `SQLite`
-
+**🔄 v1.3** — ☕ Java · No Architecture · No DI <br/>
+**🚀 v1.5** — Kotlin · MVVM · Hilt DI
+ 
+`Kotlin` · `MVVM` · `Hilt` · `ViewPager` · `RecyclerView` · `SQLite`
+ 
 </td>
 </tr>
 </table>
