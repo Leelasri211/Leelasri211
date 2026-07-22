@@ -170,7 +170,6 @@ Independently built, published & actively evolved:
 | 📚 | **Data Structures & Algorithms** | LeetCode · GeeksforGeeks |
 | 🏗️ | **System Design & Scalable Architecture** | Books · Real-world patterns |
 | 🔧 | **Kotlin Multiplatform (KMP)** | Side projects & docs |
-| 🤖 | **Machine Learning & Deep Learning** | TensorFlow · Python |
 
 ---
 
